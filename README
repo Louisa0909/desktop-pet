@@ -1,0 +1,3 @@
+项目中“生成复习提纲”功能涉及大语言模型调用，
+如需使用，请将config.py文件中LLM_API_KEY = "YOUR_API_KEY"，
+替换为本机API密钥。
